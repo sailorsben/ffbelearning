@@ -1,0 +1,11 @@
+{
+  "name": "ffbelearning",
+  "version": "1.0.0",
+  "description": "Learning how to utilize JSON in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
